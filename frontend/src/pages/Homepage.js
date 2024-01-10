@@ -29,7 +29,7 @@ const Homepage = () => {
   return (
     
     <Container maxW="xl" centerContent >
-      <Box d="flex" m="40px 0 15px 0 " borderRadius="1g" borderWidth="1px" bg='58D68D' w='100%' p={4} color='white' letterSpacing='wide'>
+      <Box d="flex" m="40px 0 15px 0 " borderRadius="1g" borderWidth="1px" bg='#58D68D' w='100%' p={4} color='white' letterSpacing='wide'>
   <Center><Text fontSize="4xl" fontFamily="Work sans" >
      College-Chat-App
     </Text></Center>
